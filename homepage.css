@@ -1,0 +1,29 @@
+#a{
+    color: rgb(239, 3, 3);
+    text-align: center;
+}
+body{
+    background-image: url(./images/empty-blackboard.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    #ul li{
+        display: inline-block;
+        margin: 20px;
+    }
+    #ul{
+        background-color: aqua;
+        background-size: 100%;
+        margin-top:-10px ;
+        /* margin: 0; */
+    }
+    #reg{
+        padding-left: 200px;
+
+    }
+    #img{
+        height: 15cm;
+        width: 25cm;
+        margin-left: 6cm;
+    }
+    
