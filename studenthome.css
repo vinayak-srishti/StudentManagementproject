@@ -13,16 +13,20 @@ body{
     font-size: larger;
 }
 #ul{
-    background-color: aqua;
+    background-color: rgba(8, 135, 135, 0.518);
     background-size: 100%;
     margin-top: 10px;
 
 }
 #reg{
-    padding-left: 150px;
+    padding-left: 270px;
+    margin-left: 5cm;
 }
 #img{
     height: 15cm;
     width: 25cm;
     margin-left: 10cm;
+}
+#g{
+    color: rgb(16, 168, 49);
 }
