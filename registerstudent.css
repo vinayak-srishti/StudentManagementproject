@@ -1,0 +1,41 @@
+/* body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9cTDYl_2IhQ_tMempXzU5etF1qN4yt8aW0Q&usqp=CAU) ;
+    background-repeat: no-repeat;
+    background-size: contain;  */
+
+#a{text-align:center;}
+div{
+    height: 15cm;
+    width: 16cm;
+    font-weight: 100;
+    background-color:rgba(162, 210, 223, 0.681) ;
+    border: 2px solid;
+    margin-left: 13cm;
+    margin-top: 2cm;
+}
+body{
+    background-image: url(./images/pexels-karolina-grabowska-4219101.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+/* #reg{
+    height: 1cm;
+    width: 10cm;
+    margin-left: 1cm;
+    margin-top: 1cm;
+} */
+/* #td1{
+    margin-left: 10px;
+} */
+#table{
+    margin-left: 150px;
+}
+#button{
+    margin-left: 300px;
+    margin-top: 50px;
+    width: 100px;
+    height: 40px;
+    background-color: aqua;
+
+}
+
