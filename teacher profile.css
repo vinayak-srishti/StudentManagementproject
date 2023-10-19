@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    background-color: rgb(150, 150, 223);
+    color: white;
+    padding: 10px;
+}
+
+#div1 {margin-top: 50px;margin-left: 150px;}
+
+#tab {margin-left: 100px;background-color: rgba(198, 171, 171, 0.792); width: 900px;height: 250px}
+
+
