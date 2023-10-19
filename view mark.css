@@ -1,0 +1,22 @@
+body{
+    background-image: url(./watercolor-design-back-school-background_23-2148593945.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    height: 10cm;
+    width: 15cm;
+    background-color: rgba(219, 225, 228, 0.441);
+    text-align: center;
+    margin-left: 15cm;
+    margin-top: 3cm;
+}
+#a{padding-left:150 px;
+padding-top: 50px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+#c{margin-right: 10cm;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: large;}
+#d{margin-right: 10cm;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: large;}

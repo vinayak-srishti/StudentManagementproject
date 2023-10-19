@@ -1,0 +1,34 @@
+div{
+    height: 18cm;
+    width: 15cm;
+    background-color: rgba(237, 243, 247, 0.306);
+    text-align: center;
+    margin-left: 13cm;
+    margin-top: 1cm;
+}
+body{
+    background-image: url(./n1421911.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#a{
+    margin-left: 1cm;
+
+}
+#b{
+    margin-left: 1cm;
+}
+#c{
+    margin-left: 1cm;
+}
+#d{margin-left: 1cm;}
+#e{margin-left: 1cm;}
+#f{margin-left: 1cm;}
+#g{margin-left: 1cm;}
+#h{margin-left: 1cm;}
+#j{margin-left: 1cm;}
+#k{margin-left: 1cm;}
+#i{height: 5cm;
+width: 5cm;
+margin-left: 1cm;}
