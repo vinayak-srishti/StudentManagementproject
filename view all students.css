@@ -1,0 +1,19 @@
+#h{color: aliceblue;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size:xx-large;
+margin-left: 600px;
+margin-top: 100px;}
+body{background-image: url(https://images.unsplash.com/photo-1423592707957-3b212afa6733?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGFjYWRlbWljfGVufDB8fDB8fHww);
+    background-repeat: no-repeat;background-size: cover;image-resolution: 2000px;)
+
+}
+/* body{color: aliceblue; height: 500px;width:500px; */
+/* font-size: large;} */
+div{margin-left:580px;
+margin-top:20px;}
+#q{background-color: rgb(106, 240, 106);}
+#w{background-color: rgb(248, 58, 58);}
+#e{background-color: rgb(106, 240, 106);}
+#r{background-color: rgb(248, 58, 58);}
+#t{background-color: rgb(106, 240, 106);}
+#y{background-color: rgb(248, 58, 58);}
