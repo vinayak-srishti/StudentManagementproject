@@ -1,0 +1,28 @@
+#a{
+    color: aliceblue;
+    text-align: center;
+}
+body{
+    background-image: url(./446443.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#ul li{
+    display: inline-block;
+    margin: 20px;
+    font-size: larger;
+}
+#ul{
+    background-color: aqua;
+    background-size: 100%;
+    margin-top: 10px;
+
+}
+#reg{
+    padding-left: 150px;
+}
+#img{
+    height: 15cm;
+    width: 25cm;
+    margin-left: 10cm;
+}
