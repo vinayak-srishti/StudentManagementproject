@@ -3,9 +3,12 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+#table{
+    padding-left: 40px;
+}
 div{
     height: 10cm;
-    width: 15cm;
+    width: 19cm;
     
     background-color: rgba(247, 246, 246, 0.785);
     text-align: center;
