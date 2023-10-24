@@ -10,6 +10,7 @@ body{
     #ul li{
         display: inline-block;
         margin: 20px;
+        font-size: larger;
     }
     #ul{
         background-color: aqua;
