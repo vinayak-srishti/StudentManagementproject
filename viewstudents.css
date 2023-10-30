@@ -1,0 +1,45 @@
+#edit1 {
+    background-color:green ;
+}
+#d1 {
+    background-color: red;
+}
+#e2 {
+    background-color: green;
+}
+#d2 {
+    background-color: red;
+}
+#e3 {
+    background-color: green;
+}
+#d3 {
+    background-color: red;
+}
+#e4 {
+    background-color: green;
+}
+#d4 {
+    background-color: red;
+}
+#vas {
+    text-align: center;
+    margin-top: 2cm;
+}
+#tab {
+margin-left: 2cm;    
+margin-top: 2cm;
+}
+body {
+    background-image: url(./1209519.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div {
+    width: 19cm; height: 10cm;
+    background-color: rgba(211, 210, 218, 0.781);
+    text-align: center;
+    margin-left: 10cm;
+    margin-top: 1cm;
+
+}

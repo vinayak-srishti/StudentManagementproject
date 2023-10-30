@@ -1,10 +1,10 @@
 #a{
-    color: rgb(239, 3, 3);
+    color: aliceblue;
     text-align: center;
     margin-top: 20px;
 }
 body{
-    background-image: url(./images/empty-blackboard.jpg);
+    background-image: url(https://images.pexels.com/photos/256490/pexels-photo-256490.jpeg?auto=compress&cs=tinysrgb&w=600);
     background-repeat: no-repeat;
     background-size: cover;
     }
