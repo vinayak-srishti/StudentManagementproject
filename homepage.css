@@ -1,25 +1,28 @@
 #a{
     color: aliceblue;
     text-align: center;
+    margin-top: 20px;
 }
 body{
     background-image: url(https://images.pexels.com/photos/256490/pexels-photo-256490.jpeg?auto=compress&cs=tinysrgb&w=600);
     background-repeat: no-repeat;
     background-size: cover;
     }
-    #ul li{
+    /* #ul li{
         display: inline-block;
-        margin: 20px;
+        margin: 8px;
         font-size: larger;
     }
     #ul{
-        background-color: aqua;
-        background-size: 100%;
-        margin-top:-10px ;
-        /* margin: 0; */
-    }
+        background-color: antiquewhite;
+        background-size: 200%;
+        margin-top:8px ;
+        word-spacing: 7px;
+        margin: 0;
+        width: 100%; */
+    /* } */
     #reg{
-        padding-left: 200px;
+        padding-left: 40px;
 
     }
     #img{
