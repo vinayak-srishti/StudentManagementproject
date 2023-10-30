@@ -6,16 +6,51 @@
     
     <title>Student Registration Form</title>
    <link rel="stylesheet" href="./teachers registration.css">
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+
+
 </head>
+
 <body>
+
+    <header class="h">
+        <ul class="nav justify-content-center">
+              <li  class="nav-item">
+                        <a class="nav-link" href="./adminhomepage.html">Homepage</a>
+              </li>
+            <li class="nav-item" id="l1">
+              <a class="nav-link" href="./view all students.html">All Students</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="./view teachers.html">View Teachers</a>
+              </li>
+              <li class="nav-item">
+                    <a class="nav-link" href="./publish notification.html"><img src="./imagesroshan/notification-bell-13113.png" id="n"></a>
+              </li>
+              <li class="nav-item" id="img">
+                    <a class="nav-link" href="./admin.html"><img src="./imagesroshan/—Pngtree—logout vector icon_4236995.png" id="n"></a>
+                   
+  
+              <l1>
+  
+              </l1>
+            </ul>
+        </header>
+      
     <div>
-    <h1> Teachers Registration Form</h1>
+    <h1> Teachers Registration </h1>
     <table>
     <tr>
-        <td>Teacher Name:</td>
+        <td>First Name:</td>
         <td><input type="text"></td>
     </tr>
-    <!-- <br><br> -->
+
+    <tr>
+        <td>Second Name:</td>
+        <td><input type="text"></td>
+    </tr>
+    
     <tr>
         <td>Email:</td>
         <td><input type="email"></td>
@@ -30,9 +65,14 @@
        <td><input type="text" id="idCardNumber"></td>
     </tr>
     <tr>
-      <td> <label for="phoneNumber">Phone Number:</label></td> 
+      <td> <label for="phoneNumber">create a password:</label></td> 
       <td><input type="tel" id="phoneNumber"></td> 
 
+    </tr>
+
+    <tr>
+        <td> <label for="phoneNumber">re-enter password:</label></td> 
+        <td><input type="tel" id="phoneNumber"></td> 
     </tr>
     <tr>
         <td> <label for="password">Password:</label> </td>
@@ -40,43 +80,9 @@
     </tr>
    
 </table>
-         <input type="submit" value="Register" id="Register">
+         <!-- <input type="submit" value="Register" id="Register"> -->
+         <button type="button" class="btn btn-secondary" id="Register">Submit</button>
 
-        <!-- <tr>
-     <td id="teacher">Teacher name:</td>
-      <td id="teacher2"><input type="text" id="TeacherName"></td><br><br>
-    </tr>
-
-    <tr>
-        <td>   Email:</td>
-            <td>   <input type="email" id="email"></td><br><br>
-    </tr>
-
-    <tr>
-        <td>  <label for="address">Address:</label></td>
-  
-            <td>   <textarea id="address"></textarea></td><br><br>
-    </tr>
-
-    <tr>
-        <td></td> <label for="idCardNumber">ID Card Number:</label></td >
-        <td></td>  <input type="text" id="idCardNumber"></td><br><br>
-    </tr>
-
-        <label for="phoneNumber">Phone Number:</label>
-        <input type="tel" id="phoneNumber"><br><br>
-
-        <label for="password">Password:</label>
-        <input type="password" id="password"><br><br>
-
-      
-             
-            
-     
-
-     
-
-        <input type="submit" value="Register"> -->
   
        
 </div>

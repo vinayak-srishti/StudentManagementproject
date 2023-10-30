@@ -1,13 +1,42 @@
+/* div{
+    color: rgb(4, 11, 11);
+    height: 60px;
+    background-color: rgb(141, 141, 166);
+    background-size: 100%;
+} */
+
+/* ul li{
+    display: inline-block;margin-top: 0.5cm;
+} */
+
+/* #l1 {margin-left: 300px;}
+#l2 {margin-left: 100px;}
+#l3 {margin-left: 100px;}
+#l4 {margin-left: 100px;} */
+
+ /* body{background-image:url(./imagesroshan/charles-deloye-2RouMSg9Rnw-unsplash.jpg);background-repeat: no-repeat;background-size:100%;}  */
 
 
 
-body {
-    font-family: Arial, sans-serif;
+
+/* 
+div{
+    margin: 0;
+
 }
+ul li{
+    background-color: aqua;
+    width: 10cm;
 
 
+} */
 
+.h{background-color: beige; height: 2cm;}
 
+/* #img {margin-left: 400px;} */
 
-
-
+/* ul{margin-left: 400px;} */
+ul li{
+    margin-top: 20px;
+}
+#n{width: 30px;height: 30px;}
