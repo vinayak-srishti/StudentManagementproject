@@ -2,19 +2,62 @@
 <html>
     <head>
         <title>home page</title>
+        <style>
+            #register {
+margin-left: 40px;
+color: aliceblue;
+            }
+            #viewprofile {
+                margin-left: 40px;
+                color: aliceblue;
+            }
+            #publish {
+                margin-left: 40px;
+                color: aliceblue;
+            }
+            #addtimetable {
+                margin-left: 40px;
+                color: aliceblue;
+            }
+            #viewallstudents {
+                margin-left: 40px;
+                color: aliceblue;
+            }
+            #div12 {
+              background-color: black;
+            }
+            #logout {
+              margin-left: 200px;
+            }
+        </style>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
         <link rel="stylesheet" href="./homepage.css">
     </head>
     <body>
-        <ul id="ul">
-            <li id="reg"><a href="./registerstudesnt.html">REGISTER STUDENT</a></li>
-            <li><a href="./viewteacherprofile.html">VIEW PROFILE</a></li>
-            <li><a href="./add time table .html">ADD TIME TABLE</a></li>
-            <li><a href="./publish notification.html">PUBLISH NOTIFICATION</a></li>
-            <li><a href="./view all students.html">VIEW ALL STUDENT</a></li>
-            <li><a href="./login.html"><img src="./images/56805.png" height="20px" width="20px"></a></li>
-        </ul>
+        <div id="divkk">
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+            <div class="container-fluid" id="div12">
+              <a class="navbar-brand" href="#"></a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                  <a class="nav-link active" aria-current="page" href="http://127.0.0.1:5500/StudentManagementproject/registerstudesnt.html" ID="register">REGISTER STUDENTS</a>
+                  <a class="nav-link active" aria-current="page" href="http://127.0.0.1:5500/StudentManagementproject/teachers%20profile.html" id="viewprofile">VIEW PROFILE</a>
+                  <a class="nav-link active" aria-current="page" href="http://127.0.0.1:5500/StudentManagementproject/publish%20notification.html" id="publish">PUBLISH NOTIFICATION</a>
+                  <a class="nav-link active" aria-current="page" href="http://127.0.0.1:5500/StudentManagementproject/add%20time%20table%20.html" id="addtimetable">ADD TIMETABLE</a>
+                  <a class="nav-link active" aria-current="page" href="http://127.0.0.1:5500/StudentManagementproject/view%20all%20student.html" id="viewallstudents">VIEW ALL STUDENTS</a>
+                  <!-- <a class="nav-link active" aria-current="page" href="#">"true">Disabled</a> -->
+                  <a href="http://www.google.com/"><button type="button" id="logout" class="btn btn-outline-danger">LOGOUT</button></a>
+                </div>
+              </div>
+            </div>
+          </nav>
         <h1 id="a">HOME PAGE</h1>
         <hr>
         <img src="./images/pexels-ron-lach-10646414.jpg" id="img">
+        </div>
     </body>
 </html>
