@@ -1,0 +1,12 @@
+body{
+    background-image:url(./64-645199_school-background-images-hd.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#head{
+    text-align: center;}
+    #a{margin-left: 250px;
+        width: 1000px;
+        height: 300px;
+        background-color:wheat;
+    }

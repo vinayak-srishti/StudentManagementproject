@@ -1,0 +1,11 @@
+div{background-color: rgba(202, 202, 188, 0.533); width: 400px; height: 500px; 
+    margin-left: 500px;
+    margin-top: 150px;
+}
+body{background-image: url(kimages/KRITHK.jpg) ;background-size: cover;background-repeat: no-repeat;
+
+}
+h1{text-align: center;}
+#a{margin-top: 30px;
+    margin-left: 150px;
+}
